@@ -54,6 +54,6 @@
     transition: 2s;
 }
 
-.buttonSearch:houver{
+.buttonSearch:hover{
     transform: scale(1.2);
 }
